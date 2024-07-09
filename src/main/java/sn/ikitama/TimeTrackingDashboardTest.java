@@ -18,7 +18,7 @@ import java.util.logging.Logger;
  */
 public class TimeTrackingDashboardTest {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
         // Initialize logger for logging test results
         final Logger LOGGER = Logger.getLogger(TimeTrackingDashboardTest.class.getName());
 
