@@ -77,9 +77,9 @@ Tests for the newsletter sign-up form verify the following:
 - **Submission of valid email :** Verifies the success message is displayed and the correct email is shown in the success message.
 - **Dismissal of success message :** Verifies the sign-up form is displayed again after dismissing the success message.
 
-### Site URL
+### Site Repository URL
 
-- [Newsletter Sign-Up Form](https://newsletter-sign-up-with-success-message-challenge-tau.vercel.app/)
+- [Newsletter Sign-Up Form](https://github.com/ikitamalarose/newsletter-sign-up-with-success-message-challenge.git)
 
 ### Time Tracking Dashboard
 
@@ -89,9 +89,9 @@ Tests for the time tracking dashboard verify the following:
 - **Weekly view :** Verifies the data displayed for the weekly view is correct.
 - **Monthly view :**  Verifies the data displayed for the monthly view is correct.
 
-### Site URL
+### Site Repository URL
 
-- [Time Tracking Dashboard](https://time-tracking-dashboard-challenge-sooty.vercel.app/)
+- [Time Tracking Dashboard](https://github.com/ikitamalarose/time-tracking-dashboard-challenge.git)
 
 ## Useful Links
 
